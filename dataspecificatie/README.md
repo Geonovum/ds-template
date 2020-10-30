@@ -1,4 +1,2 @@
-BMGI-Werkomgeving-Template Dataspecificatie
-==================================
-
-
+Werkomgeving-Template Dataspecificatie
+======================================
