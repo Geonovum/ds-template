@@ -37,6 +37,7 @@ var respecConfig =
   editors: [
     {
       name: "Paul Janssen",
+      company:    "Geonovum",
       url: "https://www.geonovum.nl",
     }
   ],
@@ -44,16 +45,11 @@ var respecConfig =
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
    authors:
   [
-     {
-     name:       "",
-    company:    "",
-      companyURL: ""
+   {
+     name:       "Paul Jannsen",
+     company:    "Geonovum",
+     url:        "https://www.geonovum.nl",
    },
-    {
-     name:       "",
-     company:    "",
-    companyURL: ""
-  },
 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
@@ -73,11 +69,11 @@ var respecConfig =
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/Geonovum/BMGI/dataspecificatie/",
+  github: "https://github.com/Geonovum/ds-template/",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/BMGI/issues/",
+  issueBase: "https://github.com/Geonovum/ds-template/issues/",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://geonovum.github.io/BMGI/dataspecificatie",
+  edDraftURI: "https://geonovum.github.io/ds-template/dataspecificatie",
 
   //-- license: voor de geldende gebruiksvoorwaarden
   licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
